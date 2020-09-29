@@ -303,5 +303,4 @@ def main_options(current_user):
 fill_raw_d()
 fill_pure_d()
 update_lists()
-#show_all_programs(True)
 main_options(None)
