@@ -1,9 +1,25 @@
-User
-chess, 4, 3, 2
-cards, 3, 2, 5
-munchkin, 5, 4, 7
-dice, 4, 3, 5
-alf
-test, 2, 20, 5
-Robert
-sfd, 4, 3, 2
+Sven
+chess, 2, 30, 8
+cards, 5, 20, 5
+munchkin, 6, 40, 12
+dice, 5, 15, 8
+Olof
+chess, 2, 30, 8
+cards, 5, 20, 5
+munchkin, 6, 40, 12
+dice, 5, 15, 8
+Erik
+chess, 2, 30, 8
+cards, 5, 20, 5
+munchkin, 6, 40, 12
+dice, 5, 15, 8
+Jhonny
+chess, 2, 30, 8
+cards, 5, 20, 5
+munchkin, 6, 40, 12
+dice, 5, 15, 8
+Petter
+chess, 2, 30, 8
+cards, 5, 20, 5
+munchkin, 6, 40, 12
+dice, 5, 15, 8
