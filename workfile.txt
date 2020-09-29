@@ -1,0 +1,9 @@
+User
+chess, 4, 3, 2
+cards, 3, 2, 5
+munchkin, 5, 4, 7
+dice, 4, 3, 5
+alf
+test, 2, 20, 5
+Robert
+sfd, 4, 3, 2
