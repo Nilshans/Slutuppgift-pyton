@@ -263,7 +263,10 @@ def remove_item(user):
 def save_and_exit():
     print("Saved changes successfully")
     add_content_to_file(True)
-def show_all_programs(show):
+def show_all_programs():
+    fill_raw_d()
+    fill_pure_d()
+    update_lists()
     for x in board_d:
         if show == True:
             x.print_properties()
